@@ -1,0 +1,9 @@
+transformers
+pandas
+scikit-learn
+spacy
+langdetect
+nltk
+torch
+faiss-cpu
+tqdm
